@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Adding tables"
+		},
+		{
+			"path": "../Radio Check button"
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../Static"
+		},
+		{
+			"path": "../Selector"
+		},
+		{
+			"path": "../Text Styling and Adding"
+		},
+		{
+			"path": "../Display Property"
+		},
+		{
+			"path": "../position property"
+		},
+		{
+			"path": "../Resume"
+		},
+		{
+			"path": "../Flex"
+		},
+		{
+			"path": "../justify content"
+		},
+		{
+			"path": "../stuff"
+		},
+		{
+			"path": "../googlelink.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop",
+		"liveServer.settings.port": 5501
+	}
+}
